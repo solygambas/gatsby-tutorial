@@ -1,6 +1,6 @@
 # Gatsby tutorial
 
-A static website to understand GatsbyJS basics.
+2 static websites to understand GatsbyJS basics.
 
 ## [Gatsby fundamentals](https://github.com/solygambas/gatsby-tutorial/tree/fundamentals)
 
