@@ -12,7 +12,7 @@ A static website to understand GatsbyJS basics.
 - exporting into a static website.
 - deploying on Surge.
 
-[See Demo deployed on Surge](https://nervous-society.surge.sh/)
+[See Fundamentals Branch](https://github.com/solygambas/gatsby-tutorial/tree/fundamentals) - [See Demo deployed on Surge](https://nervous-society.surge.sh/)
 
 ## [Gastby intermediate](https://github.com/solygambas/gatsby-tutorial/tree/intermediate)
 
@@ -21,5 +21,9 @@ A static website to understand GatsbyJS basics.
 - sourcing data with gatsby-source-filesystem.
 - transforming data with gatsby-transformer-remark.
 - creating pages programmatically with onCreateNode and createPages.
+- preparing a site to go live with Lighthouse audits, gatsby-plugin-manifest, gatsby-plugin-offline, React Helmet and gatsby-plugin-react-helmet.
+- deploying on Surge.
+
+On Master Branch - [See Demo deployed on Surge](https://plain-zipper.surge.sh/)
 
 Based on [Gatsby.js Tutorials](https://www.gatsbyjs.org/tutorial/).
