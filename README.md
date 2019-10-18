@@ -24,6 +24,6 @@ A static website to understand GatsbyJS basics.
 - preparing a site to go live with Lighthouse audits, gatsby-plugin-manifest, gatsby-plugin-offline, React Helmet and gatsby-plugin-react-helmet.
 - deploying on Surge.
 
-On Master Branch - [See Demo deployed on Surge](https://plain-zipper.surge.sh/)
+[See Intermediate Branch](https://github.com/solygambas/gatsby-tutorial/tree/intermediate) - [See Demo deployed on Surge](https://plain-zipper.surge.sh/)
 
 Based on [Gatsby.js Tutorials](https://www.gatsbyjs.org/tutorial/).
