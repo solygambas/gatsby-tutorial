@@ -31,6 +31,8 @@
 - setting up Yarn workspaces with two folders: gatsby-theme-events and site.
 - adding static data with the onPreBootstrap lifecycle.
 - generating event pages with GraphQL and createPages.
+- configuring the theme to take options.
+- making the theme extendable with gatsby-plugin-theme-ui.
 
 [See Theme Branch](https://github.com/solygambas/gatsby-tutorial/tree/theme)
 
