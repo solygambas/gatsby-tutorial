@@ -1,6 +1,6 @@
 # Gatsby tutorial
 
-2 static websites to understand GatsbyJS basics and build a theme plugin.
+2 static websites to understand GatsbyJS basics and how to build a theme plugin.
 
 ## [Gatsby fundamentals](https://github.com/solygambas/gatsby-tutorial/tree/fundamentals)
 
@@ -34,4 +34,4 @@
 
 [See Theme Branch](https://github.com/solygambas/gatsby-tutorial/tree/theme)
 
-Based on [Gatsby.js Tutorials](https://www.gatsbyjs.org/tutorial/).
+Based on [Gatsby.js Tutorials](https://www.gatsbyjs.org/tutorial/) and [Gatsby.js Theme Tutorials](https://www.gatsbyjs.org/tutorial/theme-tutorials/).
