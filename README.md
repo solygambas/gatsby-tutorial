@@ -1,6 +1,6 @@
 # Gatsby tutorial
 
-2 static websites to understand GatsbyJS basics.
+2 static websites to understand GatsbyJS basics and build a theme plugin.
 
 ## [Gatsby fundamentals](https://github.com/solygambas/gatsby-tutorial/tree/fundamentals)
 
@@ -25,5 +25,13 @@
 - deploying on Surge.
 
 [See Intermediate Branch](https://github.com/solygambas/gatsby-tutorial/tree/intermediate) - [See Demo deployed on Surge](https://plain-zipper.surge.sh/)
+
+## [Gastby theme](https://github.com/solygambas/gatsby-tutorial/tree/theme)
+
+- setting up Yarn workspaces with two folders: gatsby-theme-events and site.
+- adding static data with the onPreBootstrap lifecycle.
+- generating event pages with GraphQL and createPages.
+
+[See Theme Branch](https://github.com/solygambas/gatsby-tutorial/tree/theme)
 
 Based on [Gatsby.js Tutorials](https://www.gatsbyjs.org/tutorial/).
